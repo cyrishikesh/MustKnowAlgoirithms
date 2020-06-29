@@ -66,6 +66,8 @@ int main(){
     // fpi is found pattern indexes
     vector<int> fpi=foundPatternIndex(lps,text,pattern);
 
+   // print indexes
+   printFoundPatternIndex(fpi);
     
     return 0;
 }
