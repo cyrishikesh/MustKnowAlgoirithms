@@ -1,7 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-
 /**** 
 
       This is implementation of Knuth Morris Pratt Algorithm is based on the explanation 
@@ -10,6 +6,9 @@ using namespace std;
 
 ****/
 
+
+#include<bits/stdc++.h>
+using namespace std;
 
 
 // this function will return all the index in the string text at which string pattern is found
