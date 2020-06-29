@@ -1,2 +1,2 @@
 # MustKnowAlgoirithms
-This is repository for must known algorithms implementation
+This is repository for  implementation of some very famous algorithms.
